@@ -6,3 +6,11 @@
   
   <br>
 </p>
+<p align="center">
+<h1>My stack </h1>
+</p>
+<p align="center">
+  <a href="https://murchikov.ru">
+    <img src="https://skillicons.dev/icons?i=apple,github,js,html,css,linux,tailwind,vscode,windows,arch,cloudflare,figma,blender&perline=13" />
+  </a>
+</p>
