@@ -15,7 +15,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="[https://murchikov.ru](https://wakatime.com/@73d55472-b0c7-4fe5-9225-0116e74d96ad)">
+  <a href="https://murchikov.ru">
    <img src="https://wakatime.com/badge/user/73d55472-b0c7-4fe5-9225-0116e74d96ad.svg"
   </a>
 </p>
