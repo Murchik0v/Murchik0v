@@ -11,11 +11,11 @@
 </p>
 <p align="center">
   <a href="https://murchikov.ru">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,vscode,figma,cloudflare,md,windows,linux,discord,git,github,debian,bash,powershell,replit/>
+    <img src="https://skillicons.dev/icons?i=apple,github,js,html,css,linux,tailwind,vscode,windows,arch,cloudflare,figma,blender&perline=13" />
   </a>
 </p>
 <p align="center">
-  <a href="https://murchikov.ru">
+  <a href="[https://murchikov.ru](https://wakatime.com/@73d55472-b0c7-4fe5-9225-0116e74d96ad)">
    <img src="https://wakatime.com/badge/user/73d55472-b0c7-4fe5-9225-0116e74d96ad.svg"
   </a>
 </p>
