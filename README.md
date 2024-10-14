@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://murchikov.ru">
-    <img src="https://skillicons.dev/icons?i=apple,github,js,ts,html,css,linux,tailwind,vscode,windows,arch,cloudflare,figma,blender&perline=13" />
+    <img src="https://skillicons.dev/icons?i=vue,github,js,ts,tailwind,vscode,figma&perline=13" />
   </a>
 </p>
 <p align="center">
