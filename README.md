@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   
-  <img width="150" src="https://thedise.me/src/images/hi.webp">
+  [![me.hikka.xyz](cooltext.gif)](https://me.hikka.xyz)
   
   <br>
 </p>
