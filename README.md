@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://murchikov.ru">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,arch,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,&theme=dark" />
   </a>
 </p>
 <p align="center">
