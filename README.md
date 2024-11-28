@@ -4,13 +4,6 @@
   Develop websites, applications.
 </p>
 
-<p align="center">
-  My Telegram - <a href="https://t.me/Murchik0v/">@murchik0v</a>
-  <br/>
-  My Discord - <a href="https://discord.com/users/1175785170482233344/">@murchikov</a>
-  
-</p>
-
 <h2 align="center">My skills</h2>
 <p align="center">
   <a href="#">
