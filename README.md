@@ -1,21 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Murchikov! 👋</h1>
+
 <p align="center">
-  <br>
+  Develop websites, applications.
+</p>
+
+<p align="center">
+  My Telegram - <a href="https://t.me/Murchik0v/">@murchik0v</a>
+  <br/>
+  My Discord - <a href="https://discord.com/users/1175785170482233344/">@murchikov</a>
   
-  [![me.hikka.xyz](cooltext.gif)](https://me.hikka.xyz)
-  
-  <br>
 </p>
+
+<h2 align="center">My skills</h2>
 <p align="center">
-<h1>My stack </h1>
-</p>
-<p align="center">
-  <a href="https://murchikov.ru">
-    <img src="https://skillicons.dev/icons?i=arch,ts,js,nuxt,tailwind,&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="[https://murchikov.ru](https://wakatime.com/@73d55472-b0c7-4fe5-9225-0116e74d96ad)">
-   <img src="https://wakatime.com/badge/user/73d55472-b0c7-4fe5-9225-0116e74d96ad.svg"
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,js,ts,pnpm,nodejs,tailwindcss,docker,nginx,linux,windows,cloudflare,workers&perline=10">
   </a>
 </p>
