@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Murchikov! 👋</h1>
 
-<p align="center">
-  Develop websites, applications.
-</p>
-
 <h2 align="center">My skills</h2>
 <p align="center">
   <a href="#">
