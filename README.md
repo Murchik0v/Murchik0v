@@ -1,5 +1,5 @@
 
 <p align="center">
   <a href="#">
-    <img src="transparent.gif">
+    <img src="28ee.gif">
   </a>
